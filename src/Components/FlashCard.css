@@ -4,6 +4,8 @@
   gap: 16px;
   padding: 16px;
   justify-content: center;
+  background: cadetblue;
+  padding: 49px;
 }
 
 .flashcards div {
