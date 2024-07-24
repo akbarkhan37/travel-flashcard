@@ -1,0 +1,10 @@
+.site-logo {
+  display: flex;
+  justify-content: center;
+  background: lightgreen;
+}
+
+img.logoimg {
+  width: 120px;
+  mix-blend-mode: multiply;
+}

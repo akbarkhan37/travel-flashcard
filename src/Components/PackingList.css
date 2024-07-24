@@ -1,0 +1,11 @@
+.list {
+  height: 60vh;
+  background: firebrick;
+  padding: 2px;
+}
+
+ul.list-items {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}

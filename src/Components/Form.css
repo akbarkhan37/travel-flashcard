@@ -1,0 +1,15 @@
+.add-form {
+  background: lightgray;
+  padding: 2px;
+}
+
+.add-form {
+  background: lightgray;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.add-form h3 {
+  padding-right: 10px;
+}
